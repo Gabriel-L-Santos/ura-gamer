@@ -1,10 +1,11 @@
 body, ul {
     margin: 0px;
     padding: 0px;
+    background: black;
 }
 
 a {
-    color: black;
+    color: rgb(213, 0, 0);
     text-decoration: none;
     font-family: sans-serif;
 }
@@ -16,6 +17,7 @@ a:hover {
 #logo {
     font-size: 1.5rem;
     font-weight: bold;
+    font-family: 'Audiowide', cursive;
 }
 
 #header {
@@ -25,7 +27,7 @@ a:hover {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: #e7e7e7;
+    background: #000000;
 }
 
 #menu {
@@ -37,6 +39,7 @@ a:hover {
 #menu a {
     display: block;
     padding: .5rem;
+    font-family: 'Audiowide', cursive;
 }
 
 #btn-mobile {
@@ -50,7 +53,7 @@ a:hover {
         width: 100%;
         top: 70px;
         right: 0px;
-        background: #e7e7e7;
+        background: rgb(43, 40, 40);
         transition: .6s;
         z-index: 1000;
         height: 0px;
@@ -62,6 +65,7 @@ a:hover {
         height: calc(100vh - 70px);
         visibility: visible;
         overflow-y: auto;
+        background: rgb(43, 40, 40);
     }
 
     #menu a {
@@ -78,6 +82,8 @@ a:hover {
         background: none;
         cursor: pointer;
         gap: .5rem;
+        background: transparent;
+        color:rgb(213, 0, 0);
     }
 
     #hamburger {
@@ -95,6 +101,7 @@ a:hover {
         margin-top: 5px;
         transition: .3s;
         position: relative;
+        background: rgb(213, 0, 0);
     }
 
     #nav.active #hamburger {
