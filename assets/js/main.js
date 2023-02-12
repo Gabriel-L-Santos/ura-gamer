@@ -1,3 +1,5 @@
+// Menu Hamburger //
+
 const btnMobile = document.getElementById('btn-mobile');
 
 function toggleMenu(event) {
