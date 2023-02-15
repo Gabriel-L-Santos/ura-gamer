@@ -106,6 +106,15 @@ a:hover {
     width: 100%;
 }
 
+/* FOOTER */
+
+.copyright {
+    text-align: center;
+    overflow: hidden;
+    margin-bottom: auto;
+    color:rgb(213, 0, 0);
+}
+
 /* MOBILE */
 
 @media (max-width: 600px) {
@@ -179,7 +188,7 @@ a:hover {
         top: -7px;
     }
 
-    /* main */
+    /* main do mobile */
 
     .home{
         padding: 100px 2%;
@@ -202,5 +211,4 @@ a:hover {
     .home-img{
         width: 100%;
     }
-
 }
