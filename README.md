@@ -20,7 +20,7 @@ Este projeto é um site de vendas de computadores gamer de alta performance de n
 
 ## Meu processo de Desenvolvimento
 
-Este projeto teve como foco produzir um site responsivo tanto para o desktop quanto para celulares, principalmente na parte mobile, no qual foi dada atenção prioritária. Para fazer o menu na versão mobile, foi usado o efeito "hamburger" para abrir e fechar uma barra de menu que fica por cima do conteúdo do site, usando Javascript em conjunto com o CSS (CSS para criar o visual do menu, tanto na versão ativado quanto na desativada, e o Javascript para fazer a função de ativar/desativar).
+Este projeto teve como foco produzir um site responsivo tanto para o desktop quanto para celulares, principalmente na parte mobile, no qual foi dada atenção prioritária. Para fazer o menu na versão mobile, foi usado o efeito "hamburger" para abrir e fechar uma barra de menu que fica por cima do conteúdo do site, usando Javascript em conjunto com o CSS (CSS para criar o visual do menu, tanto na versão ativada quanto na desativada, e o Javascript para fazer a função de ativar/desativar).
 
 ## Autor do Projeto
 
